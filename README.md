@@ -1,2 +1,2 @@
 # hello-world
-my first repository
+trying to learn github interface and git commands, my nofel and starting out a new adevnture in dataops
